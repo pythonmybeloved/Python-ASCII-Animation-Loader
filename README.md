@@ -8,6 +8,7 @@ To make the animation, create a .txt file. Create the frames like in the 3 inclu
 Open the terminal of your operating system (it will crash if you open it in python) and type the following:
 
 cd path/to/your/file
+
 python ascii.py
 
 Replace "path/to/your/file" with the file location in which you placed the animation loader. After this, the program will prompt you to enter the file name. Enter the file name of the text file of your choosing, file extension (.txt) included. After this, just sit back and watch the program play your animation.
